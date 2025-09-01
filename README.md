@@ -40,5 +40,3 @@ This repository serves as a central hub for all my speaking engagements, confere
 This repository is open source and available under the [MIT License](LICENSE).
 
 ---
-
-*Last updated: December 2024*
