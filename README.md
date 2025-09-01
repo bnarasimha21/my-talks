@@ -16,22 +16,6 @@ A collection of my conference talks, presentations, and speaking engagements.
 📄 [MongoDB - Bangalore 2025](./MongoDB-Bangalore-2025/submission.md)  
 📄 [Echelon - Singapore 2025](./Echelon-Singapore-2025/submission.md)
 
-## 🗂️ Repository Structure
-
-```
-my-talks/
-├── AgentCon-Hyderabad-2025/
-│   └── submission.md          # Conference submission details
-├── Echelon-Singapore-2025/
-│   └── submission.md          # Workshop submission details
-├── MongoDB-Bangalore-2025/
-│   └── submission.md          # Conference submission details
-├── NDC-London-2026/
-│   └── submission.md          # Conference submission details
-├── README.md                  # This file
-└── [Future talk folders...]
-```
-
 ## 📝 About
 
 This repository serves as a central hub for all my speaking engagements, conference submissions, and presentation materials. Each talk gets its own folder with relevant documentation, slides, code examples, and resources.
