@@ -4,22 +4,29 @@ A collection of my conference talks, presentations, and speaking engagements.
 
 ## 🎤 Upcoming Talks
 
-📄 [AgentCon 2025 - Hyderabad](./AgentCon-2025-Hyderabad/submission.md)
+*No upcoming talks to display yet.*
+
+## 📝 Submissions
+
+📄 [AgentCon - Hyderabad 2025](./AgentCon-Hyderabad-2025/submission.md)  
+📄 [NDC - London 2026](./NDC-London-2026/submission.md)
 
 ## 📚 Recent Talks
 
-📄 [MongoDB 2025 - Bangalore](./MongoDB-2025-Bangalore/submission.md)  
-📄 [Echelon 2025 - Singapore](./Echelon-2025-Singapore/submission.md)
+📄 [MongoDB - Bangalore 2025](./MongoDB-Bangalore-2025/submission.md)  
+📄 [Echelon - Singapore 2025](./Echelon-Singapore-2025/submission.md)
 
 ## 🗂️ Repository Structure
 
 ```
 my-talks/
-├── AgentCon-2025-Hyderabad/
+├── AgentCon-Hyderabad-2025/
 │   └── submission.md          # Conference submission details
-├── Echelon-2025-Singapore/
+├── Echelon-Singapore-2025/
 │   └── submission.md          # Workshop submission details
-├── MongoDB-2025-Bangalore/
+├── MongoDB-Bangalore-2025/
+│   └── submission.md          # Conference submission details
+├── NDC-London-2026/
 │   └── submission.md          # Conference submission details
 ├── README.md                  # This file
 └── [Future talk folders...]
