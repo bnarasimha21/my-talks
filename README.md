@@ -8,7 +8,8 @@ A collection of my conference talks, presentations, and speaking engagements.
 
 ## 📚 Recent Talks
 
-📄 [MongoDB 2025 - Bangalore](./MongoDB-2025-Bangalore/submission.md)
+📄 [MongoDB 2025 - Bangalore](./MongoDB-2025-Bangalore/submission.md)  
+📄 [Echelon 2025 - Singapore](./Echelon-2025-Singapore/submission.md)
 
 ## 🗂️ Repository Structure
 
@@ -16,6 +17,8 @@ A collection of my conference talks, presentations, and speaking engagements.
 my-talks/
 ├── AgentCon-2025-Hyderabad/
 │   └── submission.md          # Conference submission details
+├── Echelon-2025-Singapore/
+│   └── submission.md          # Workshop submission details
 ├── MongoDB-2025-Bangalore/
 │   └── submission.md          # Conference submission details
 ├── README.md                  # This file
