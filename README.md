@@ -4,11 +4,10 @@ A collection of my conference talks, presentations, and speaking engagements.
 
 ## 🎤 Upcoming Talks
 
-*No upcoming talks to display yet.*
+📄 [AgentCon - Hyderabad 2025](./AgentCon-Hyderabad-2025/submission.md)
 
 ## 📝 Submissions
 
-📄 [AgentCon - Hyderabad 2025](./AgentCon-Hyderabad-2025/submission.md)  
 📄 [NDC - London 2026](./NDC-London-2026/submission.md)
 
 ## 📚 Recent Talks
